@@ -41,7 +41,7 @@ myo.connected[id]..disconnect();
 
 ## INITIATE
 
-Initiate Myo for receiving stream and data
+Initiate Myo to receive stream and data
 ```javascript
 myo.connected[id].unlock("hold", function() {
     // lock - time (will lock after inactivity) - hold
