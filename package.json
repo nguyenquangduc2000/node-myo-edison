@@ -1,0 +1,10 @@
+{
+  "name": "HACKINTEL",
+  "version": "1.0.0",
+  "description": "Myo BLE interface",
+  "main": "app.js",
+  "author": "http://www.katlea-edition.com",
+  "dependencies": {
+    "noble": "^1.1.0"
+  }
+}
