@@ -2,7 +2,7 @@
 Control Myo Armband with node.js on your Intel Edison Board
 
 # Intel Edison Instructions
-Instructions are availabe on http://www.instructables.com :
+Instructions are availabe on instructables :
 http://www.instructables.com/id/MyoCraft-Myo-Armband-with-nodejs-on-Intel-Edison-B/
 
 
