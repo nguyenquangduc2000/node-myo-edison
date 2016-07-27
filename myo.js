@@ -57,7 +57,7 @@ noble.on('stateChange', function (state) {
     if (state === 'poweredOn') {
         ble = true;
     } else {
-        conosle.log('bluetooth LE down');
+        console.log('bluetooth LE down');
         ble = false;
     }
 });
