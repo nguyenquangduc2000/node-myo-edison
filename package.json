@@ -1,8 +1,8 @@
 {
-  "name": "HACKINTEL",
+  "name": "node-myo-edison",
   "version": "1.0.0",
   "description": "Myo BLE interface",
-  "main": "app.js",
+  "main": "myo.js",
   "author": "http://www.katlea-edition.com",
   "dependencies": {
     "noble": "^1.1.0"
